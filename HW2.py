@@ -4,6 +4,9 @@
 
 # Step 1: importing a Shakespeare's poem in txt format
 # + already applying lower function
+
+###!!! link to poem: https://github.com/maksym1503/ForHomeworks/blob/main/Shakespeare.txt
+
 poem = open("/Users/macbook/Desktop/Shakespeare.txt").read().lower()
 print(poem)
 
